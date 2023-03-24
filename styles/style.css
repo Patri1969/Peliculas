@@ -4,17 +4,17 @@
     box-sizing: border-box
 }
 body {
-    background-color: rgb(205, 219, 214);
+    background-color: rgb(152, 129, 252);
 }
 h1 {
     font-family: fantasy;
-    color: rgb(21, 134, 97);
+    color:azure;
     font-weight: 400px;
     padding: 20px;    
 } h2 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(21, 134, 97);
+    color: azure;
 }
 ul li {
-color: rgb(21, 134, 97);
+color: azure;
 }
